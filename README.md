@@ -7,22 +7,22 @@
 <p>Энергостройград - https://energostroy.spaceapp.ru/</p>
 <p>Партнер - https://www.xn--64-6kcdublh0ccuncis.xn--p1ai/</p>
 <p>Онкодиспансер - https://onko.spaceapp.ru/</p>
-<p>Иотех - https://iotech.spaceapp.ru/</p>
+<p>Иотех - https://ioteh.ru/</p>
 <p>Мир погрузчиков - https://mirpogruzchikov.ru/</p>
-<p>ЖДЭ - https://zde2000.ru/</p>
-<p>Асноор - https://asnoor-rf.ru/</p>
-<p>Прохук - https://prohook.ru/</p>
-<p>Вивадекор - https://bajjoitalia.com/</p>
+<p>ЖДЭ-2000 - https://zde2000.ru/</p>
+<p>АсНООР - https://asnoor-rf.ru/</p>
+<p>Prohook - https://prohook.ru/</p>
+<p>Bajjoitalia - https://bajjoitalia.com/</p>
 <p>Сварпром - https://xn--80aae5bjfgbdbh.xn--p1ai/</p>
-<p>СЭСР - https://sesr.spaceapp.ru/</p>
+<p>СЭСР - https://sesr.su/</p>
 <p>Методцентр - https://xn--l1adijq.xn--p1ai/</p>
 <p>Холвент - https://holvent.spaceapp-dev.com/</p>
-<p>Ирбис - https://irbis-edu.spaceapp-dev.com/</p>
+<p>ИРБИС - https://irbis-edu.spaceapp-dev.com/</p>
 <p>Наприёме - https://napriyome.spaceapp-dev.com/</p>
-<p>Соланагрупп - https://solanagroup-company.com/</p>
+<p>Солана групп - https://solanagroup-company.com/</p>
 <p>Свеча 64 - https://www.svecha64.ru/</p>
 <p>Мебель молл - https://xn----9sblb4ababfu5m.com/</p>
-<p>Ключниксар - https://kluch-sar.ru/</p>
+<p>Ключник - https://kluch-sar.ru/</p>
 <p>Территория улыбки - https://32cdi.ru/</p>
 <p>Волга курорт - https://travelburo64.ru/</p>
 <p>МЗСС - https://mzss.ru/</p>
